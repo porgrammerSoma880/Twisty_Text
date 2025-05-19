@@ -1,6 +1,6 @@
-# Twisted Text Generator
+# Twisty_Type
 
-Welcome to the **Twisted Text Generator**! This Python program takes a sentence as input and shuffles the words to produce a fun, twisted version of the text. It's simple, interactive, and perfect for generating random, quirky phrases!
+Welcome to the **Twisty_Type**! This Python program takes a sentence as input and shuffles the words to produce a fun, twisted version of the text. It's simple, interactive, and perfect for generating random, quirky phrases!
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to the **Twisted Text Generator**! This Python program takes a sentence 
 text
 Copy
 Edit
-├── twisted_text_generator.py
+├── twisty_type_project.py
 ├── README.md
 ├── LICENSE
 
@@ -84,13 +84,13 @@ Edit
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/porgrammerSoma880/twisted-text-generator.git
-   cd twisted-text-generator
+   git clone https://github.com/porgrammerSoma880/Twisty_Typet.git
+   cd Twisty_Type
    ```
 
 2. Run the script using Python:
    ```bash
-   python twisted_text_generator.py
+   python twisty_type_project.py
    ```
 
 3. Follow the on-screen instructions. Type a sentence with more than one word to see its twisted version. Type `exit` to quit the program.
@@ -107,8 +107,10 @@ Edit
 
 ## Example Usage
 
-```text
-Welcome to the Twisted Text Generator!
+```text Welcome to the Twisty_Type!
+Type 'exit' to quit the program.
+
+Enter text to get a fun, twisted version (text must include more than one word!): 
 Type 'exit' to quit the program.
 
 Enter text to get a fun, twisted version (text must include more than one word!): Hello World from Python
