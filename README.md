@@ -34,7 +34,7 @@ Edit
 ├── twisted_text_generator.py
 ├── README.md
 ├── LICENSE
-└── requirements.txt  (যদি থাকে)
+
 
 
 
